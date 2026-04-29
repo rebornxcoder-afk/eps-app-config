@@ -1,6 +1,6 @@
 {
   "base_url": "https://coereborn.xyz/a/eps/",
   "endpoints": {
-    "fetch_chat": "scripts/fetch_chat.php"
+    "fetch_chat": "script/fetch_chat.php"
   }
 }
