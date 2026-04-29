@@ -1,9 +1,9 @@
 {
   "base_url": "https://coereborn.xyz/a/eps/",
   "endpoints": {
-    "fetch_chat": "scripts/fetch_chat.php"
-     "save_chat": "scripts/save_chat.php"
-      "upload_image": "scripts/upload_image.php"
-       "share_image": "scripts/share_image.php"
+    "fetch_chat": "scripts/fetch_chat.php",
+    "save_chat": "scripts/save_chat.php",
+    "upload_image": "scripts/upload_image.php",
+    "share_image": "scripts/share_image.php"
   }
 }
