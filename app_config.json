@@ -4,6 +4,7 @@
     "fetch_chat": "scripts/fetch_chat.php",
     "save_chat": "scripts/save_chat.php",
     "upload_image": "scripts/upload_image.php",
-    "share_image": "scripts/share_image.php"
+    "share_image": "scripts/share_image.php",
+    "user_info": "scripts/user_info.php"
   }
 }
