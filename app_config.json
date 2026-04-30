@@ -5,6 +5,7 @@
     "save_chat": "scripts/save_chat.php",
     "upload_image": "scripts/upload_image.php",
     "share_image": "scripts/share_image.php",
-    "user_info": "scripts/user_info.php"
+    "user_info": "scripts/user_info.php",
+    "device_name" : "scripts/update_device_name.php"
   }
 }
