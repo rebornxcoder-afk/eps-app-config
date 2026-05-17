@@ -7,6 +7,7 @@
     "share_image": "scripts/share_image.php",
     "user_info": "scripts/user_info.php",
     "update_device_name" : "scripts/update_device_name.php",
-    "get_translation" : "scripts/get_translation.php"
+    "get_translation" : "scripts/get_translation.php",
+    "book_link" : "https://coereborn.xyz/a/eps/"
   }
 }
