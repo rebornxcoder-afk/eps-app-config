@@ -9,6 +9,7 @@
     "update_device_name" : "scripts/update_device_name.php",
     "get_translation" : "scripts/get_translation.php",
     "book_link" : "https://coereborn.xyz/a/eps/",
-    "speak_url" : "scripts/speak.json"
+    "speak_url" : "scripts/speak.json",
+    "update_check" : "scripts/update_check.json"
   }
 }
