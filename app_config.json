@@ -11,6 +11,6 @@
     "book_link" : "https://coereborn.xyz/a/eps/",
     "speak_url" : "scripts/speak.json",
     "update_check" : "scripts/update_check.json",
-    "get_korean_data" : "https://coereborn.xyz/a/learn_korean/scripts/get_korean_data.php?lang="
+    "get_korean_data" : "https://coereborn.xyz/a/"
   }
 }
