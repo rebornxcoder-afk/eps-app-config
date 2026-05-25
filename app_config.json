@@ -34,7 +34,9 @@
 
     "audio_json_fetch" : "scripts/audio_json_fetch.php",
     "my_listening" : "listening/my/",
-    "thumbnails" : "listening/my/thumbnails/"
+    "thumbnails" : "listening/my/thumbnails/",
+
+    "forgot_pass" : "scripts/forgot_password.php"
     
   }
 }
