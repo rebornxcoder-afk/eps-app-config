@@ -25,6 +25,7 @@
     "upload_image" : "scripts/upload_image.php",
     "login" : "scripts/login.php",
     "update_device_name" : "scripts/update_device_name_when_login.php",
-    "base_user_info" : "scripts/user_info.php?email="
+    "base_user_info" : "scripts/user_info.php?email=",
+    "ranking" : "scripts/ranking.php"
   }
 }
