@@ -37,7 +37,8 @@
     "thumbnails" : "listening/my/thumbnails/",
 
     "forgot_pass" : "scripts/forgot_password.php",
-    "verify_otp" : "scripts/verify_otp.php"
+    "verify_otp" : "scripts/verify_otp.php",
+    "reset_pass" : "scripts/reset_password.php"
     
   }
 }
