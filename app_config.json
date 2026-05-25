@@ -14,11 +14,11 @@
     "update_device_name" : "scripts/update_device_name.php",
     "get_translation" : "scripts/get_translation.php",
     
-    "book_link" : "https://coereborn.xyz/a/eps/",
+    "book_link" : "https://reborncoder.xyz/a/eps/",
     "speak_url" : "scripts/speak.json",
     "update_check" : "scripts/update_check.json",
-    "get_korean_data" : "https://coereborn.xyz/a/",
+    "get_korean_data" : "https://reborncoder.xyz/a/",
     
-    "complain" : "https://coereborn.xyz/a/"
+    "complain" : "https://reborncoder.xyz/a/"
   }
 }
