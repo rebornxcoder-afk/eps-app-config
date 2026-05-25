@@ -19,6 +19,11 @@
     "update_check" : "scripts/update_check.json",
     "get_korean_data" : "https://reborncoder.xyz/a/",
     
-    "complain" : "https://reborncoder.xyz/a/"
+    "complain" : "https://reborncoder.xyz/a/",
+
+    "sign_up" : "scripts/reg_users.php",
+    "upload_image" : "scripts/upload_image.php",
+    "login" : "scripts/login.php",
+    "update_device_name" : "scripts/update_device_name_when_login.php"
   }
 }
