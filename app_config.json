@@ -29,6 +29,12 @@
     "ranking" : "scripts/ranking.php",
 
     "listening" : "listening/",
-    "chapater_test" : "chapter_test/"
+    "chapater_test" : "chapter_test/",
+
+
+    "audio_json_fetch" : "scripts/audio_json_fetch.php",
+    "my_listening" : "listening/my/",
+    "thumbnails" : "listening/my/thumbnails/"
+    
   }
 }
