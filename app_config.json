@@ -40,6 +40,8 @@
     "verify_otp" : "scripts/verify_otp.php",
     "reset_pass" : "scripts/reset_password.php",
 
-    "color_blind" : "chapter_test/colorblind.json"
+    "color_blind" : "chapter_test/colorblind.json",
+
+    "delete_ac" : "scripts/delete_account.php"
   }
 }
