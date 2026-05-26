@@ -42,6 +42,8 @@
 
     "color_blind" : "chapter_test/colorblind.json",
 
-    "delete_ac" : "scripts/delete_account.php"
+    "delete_ac" : "scripts/delete_account.php",
+
+    "ubt" : "https://reborncoder.xyz/a/ubt/"
   }
 }
