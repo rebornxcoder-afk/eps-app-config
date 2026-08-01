@@ -44,6 +44,8 @@
 
     "delete_ac" : "scripts/delete_account.php",
 
-    "ubt" : "https://reborncoder.xyz/a/ubt/"
+    "ubt" : "https://reborncoder.xyz/a/ubt/",
+
+    "notifications" : "scripts/get_notifications.php"
   }
 }
