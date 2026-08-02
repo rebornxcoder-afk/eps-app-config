@@ -46,6 +46,8 @@
 
     "ubt" : "https://reborncoder.xyz/a/ubt/",
 
-    "notifications" : "scripts/get_notifications.php"
+    "notifications" : "scripts/get_notifications.php",
+
+    "chapter_translation": "scripts/get_chapter_translation.php"
   }
 }
