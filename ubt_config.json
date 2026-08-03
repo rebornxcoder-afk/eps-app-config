@@ -1,0 +1,53 @@
+{
+  "base_url": "https://reborncoder.xyz/a/ubt/",
+  "endpoints": {
+    "devWhatsAppNumber" : "+8801953249414",
+    "devEmail" :"reborncoderx@gmail.com",
+    "defaultMessage" : "Eps topik Book App",
+    "emailSubject" : "Need Help",
+    
+    "fetch_chat": "scripts/fetch_chat.php",
+    "save_chat": "scripts/save_chat.php",
+    "upload_image": "scripts/upload_image.php",
+    "share_image": "scripts/share_image.php",
+    "user_info": "scripts/user_info.php",
+    "update_device_name" : "scripts/update_device_name.php",
+    "get_translation" : "scripts/get_translation.php",
+    
+    "book_link" : "https://reborncoder.xyz/a/eps/",
+    "speak_url" : "scripts/speak.json",
+    "update_check" : "scripts/update_check.json",
+    "get_korean_data" : "https://reborncoder.xyz/a/",
+    
+    "complain" : "https://reborncoder.xyz/a/",
+
+    "sign_up" : "scripts/reg_users.php",
+    "upload_image" : "scripts/upload_image.php",
+    "login" : "scripts/login.php",
+    "update_device_name" : "scripts/update_device_name_when_login.php",
+    "base_user_info" : "scripts/user_info.php?email=",
+    "ranking" : "scripts/ranking.php",
+
+    "listening" : "listening/",
+    "chapater_test" : "chapter_test/",
+
+
+    "audio_json_fetch" : "scripts/audio_json_fetch.php",
+    "my_listening" : "listening/my/",
+    "thumbnails" : "listening/my/thumbnails/",
+
+    "forgot_pass" : "scripts/forgot_password.php",
+    "verify_otp" : "scripts/verify_otp.php",
+    "reset_pass" : "scripts/reset_password.php",
+
+    "color_blind" : "chapter_test/colorblind.json",
+
+    "delete_ac" : "scripts/delete_account.php",
+
+    "ubt" : "https://reborncoder.xyz/a/ubt/",
+
+    "notifications" : "scripts/get_notifications.php",
+
+    "chapter_translation": "scripts/get_chapter_translation.php"
+  }
+}
